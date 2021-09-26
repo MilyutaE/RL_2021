@@ -1,1 +1,2 @@
-# RL_2021
+# practical-rl
+Based on https://github.com/yandexdataschool/Practical_RL
